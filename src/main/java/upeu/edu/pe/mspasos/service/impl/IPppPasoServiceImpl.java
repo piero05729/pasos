@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import upeu.edu.pe.mspasos.domain.Pasos_ppp;
 import upeu.edu.pe.mspasos.repository.IPppPasoRepository;
+import upeu.edu.pe.mspasos.service.IPppPasoService;
 
 
 import java.util.List;
